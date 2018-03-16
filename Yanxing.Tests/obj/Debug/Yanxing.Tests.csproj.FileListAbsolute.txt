@@ -1,0 +1,67 @@
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\ApplicationInsights.config
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\csc.exe
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\vbc.exe
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.Tests.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.Tests.pdb
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.pdb
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\obj\Debug\Yanxing.Tests.csprojResolveAssemblyReference.cache
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\obj\Debug\Yanxing.Tests.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\obj\Debug\Yanxing.Tests.pdb
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.Tests.dll.config
+E:\Study\VS\Yanxing\Yanxing\Yanxing.Tests\bin\Debug\SQLinq.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.Tests.dll.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.Tests.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.Tests.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\SQLinq.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Yanxing.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\obj\Debug\Yanxing.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\obj\Debug\Yanxing.Tests.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\obj\Debug\Yanxing.Tests.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\SQLinq.Dapper.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Dapper.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing.Tests\bin\Debug\Dapper.pdb

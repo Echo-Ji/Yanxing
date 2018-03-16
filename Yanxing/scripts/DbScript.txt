@@ -1,0 +1,71 @@
+﻿IF OBJECT_ID('[dbo].[Account]', 'U') IS NOT NULL DROP TABLE [dbo].[Account];
+CREATE TABLE [dbo].[Account] (
+    [Username] CHAR (40) NOT NULL,
+    [Password] CHAR (22) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Username] ASC)
+);
+
+
+CREATE TABLE [dbo].[Activity] (
+    [Aid]   SMALLINT       NOT NULL,
+    [Aname] NVARCHAR (128) NOT NULL,
+    [Arate] TINYINT        NOT NULL,
+    PRIMARY KEY CLUSTERED ([Aid] ASC),
+    CONSTRAINT [Crate] CHECK ([Arate]>(0))
+);
+
+CREATE TABLE [dbo].[Participant] (
+    [PTid]   INT            NOT NULL,
+    [Aid]    SMALLINT       NOT NULL,
+    [Ptel]   NVARCHAR (128) NOT NULL,
+    [PTtime] DATE           NOT NULL,
+    [Rid]    TINYINT        NOT NULL,
+    PRIMARY KEY CLUSTERED ([PTid] ASC),
+    CONSTRAINT [FK_Participant_ToActivity] FOREIGN KEY ([Aid]) REFERENCES [dbo].[Activity] ([Aid]),
+    CONSTRAINT [FK_Participant_ToRole] FOREIGN KEY ([Rid]) REFERENCES [dbo].[Role] ([Rid]),
+    CONSTRAINT [FK_Participant_ToPerson] FOREIGN KEY ([Ptel]) REFERENCES [dbo].[Person] ([Ptel])
+);
+
+CREATE TABLE [dbo].[Person] (
+    [Ptel]           NVARCHAR (128) NOT NULL,
+    [Pname]          NVARCHAR (128) NOT NULL,
+    [Pgrade]         NVARCHAR (128) NOT NULL,
+    [Psex]           NVARCHAR (20)  NOT NULL,
+    [Page]           SMALLINT       NOT NULL,
+    [PwechatID]      CHAR (128)     NULL,
+    [Pemail]         CHAR (128)     NOT NULL,
+    [Ptimein]        DATE           NOT NULL,
+    [Ppro]           NVARCHAR (128) NULL,
+    [Sid]            SMALLINT       NULL,
+    [Pwork_years]    SMALLINT       NULL,
+    [Pjob4u]         NVARCHAR (128) NULL,
+    [Padvs]          TEXT           NULL,
+    [Pact4water]     TEXT           NULL,
+    [Pact4fire]      TEXT           NULL,
+    [Phobbies]       TEXT           NULL,
+    [Pfield_of_firm] NVARCHAR (128) NULL,
+    [Pwish4stu]      TEXT           NULL,
+    [Pmentor]        TEXT           NULL,
+    [Paims5y]        TEXT           NULL,
+    [PaimsMP]        TEXT           NULL,
+    PRIMARY KEY CLUSTERED ([Ptel] ASC),
+    CONSTRAINT [FK_Person_ToSchool] FOREIGN KEY ([Sid]) REFERENCES [dbo].[School] ([Sid]),
+    CONSTRAINT [CK_Person_Cgrade] CHECK ([Pgrade]='Jmember' OR [Pgrade]='Smember' OR [Pgrade]='EC' OR [Pgrade]='ECleader' OR [Pgrade]='BoardMember')
+);
+
+CREATE TABLE [dbo].[Role] (
+    [Rid]    TINYINT        NOT NULL,
+    [Rname]  NVARCHAR (128) NOT NULL,
+    [Rscore] TINYINT        NOT NULL,
+    PRIMARY KEY CLUSTERED ([Rid] ASC),
+    CONSTRAINT [CK_Role_score] CHECK ([Rscore]>(0))
+);
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\ApplicationInsights.config
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\csc.exe
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\vbc.exe
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\VBCSCompiler.exe
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Yanxing.dll.config
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Yanxing.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Yanxing.pdb
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.DependencyCollector.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.Web.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.WindowsServer.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.ApplicationInsights.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Newtonsoft.Json.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\System.Net.Http.Formatting.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\System.Web.Http.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\System.Web.Http.WebHost.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.DependencyCollector.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.Web.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.AI.WindowsServer.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.ApplicationInsights.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Newtonsoft.Json.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\System.Net.Http.Formatting.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\System.Web.Http.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\System.Web.Http.WebHost.xml
+E:\Study\VS\Yanxing\Yanxing\Yanxing\obj\Debug\Yanxing.csprojResolveAssemblyReference.cache
+E:\Study\VS\Yanxing\Yanxing\Yanxing\obj\Debug\Yanxing.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\obj\Debug\Yanxing.pdb
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\SQLinq.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Dapper.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\SQLinq.Dapper.dll
+E:\Study\VS\Yanxing\Yanxing\Yanxing\bin\Dapper.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\ApplicationInsights.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\csc.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\vbc.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Yanxing.dll.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Yanxing.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Yanxing.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Dapper.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\SQLinq.Dapper.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\SQLinq.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\System.Net.Http.Formatting.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\System.Web.Http.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\System.Web.Http.WebHost.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Dapper.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\System.Net.Http.Formatting.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\System.Web.Http.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\bin\System.Web.Http.WebHost.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\obj\Debug\Yanxing.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\obj\Debug\Yanxing.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Yanxing\Yanxing\obj\Debug\Yanxing.csprojResolveAssemblyReference.cache
